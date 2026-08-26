@@ -1,6 +1,6 @@
 Software Engineer working in web development using primarily TypeScript.
 
-- Currently working as a Lead Software Engineer making heavy use of [Temporal](https://temporal.io/), [Effect](https://effect.website/), and various LLM tools for [Salty.™](https://www.salty.ai/).
+- Currently working as a Lead Software Engineer making heavy use of [Temporal](https://temporal.io/), [Effect](https://effect.website/), and various LLM tools for [Salty.](https://www.salty.ai/).
 
 - 📫 How to reach me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/adamjsmith117)
@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+™
 -->
